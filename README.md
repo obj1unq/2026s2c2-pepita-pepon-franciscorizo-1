@@ -32,7 +32,7 @@ Tiene un ave, a veces es Pepón, a veces es Pepita, por lo tanto tiene que enten
 Ejemplos:
 - Si tiene a pepon con energía de 30, y recibe el mensaje alimentar(alpiste) pepon queda con 40 de energía
 - Si tiene a pepita con energía de 100 y recibe el mensaje alimentar(alpiste) pepita queda con 120 de energía.
-
+ 
 ### Cenas
 
 Entiende el mensaje *cenas* sin parámetros, el cual devuelve la cantidad de veces que rebeca dio de alimentar a su ave
